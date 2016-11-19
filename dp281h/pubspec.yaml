@@ -1,0 +1,5 @@
+---
+name: dp281h
+description: finds spaces which must be safe in an iteration of minesweeper
+dependencies:
+    test: any

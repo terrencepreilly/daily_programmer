@@ -1,0 +1,4 @@
+name: dp281i
+description: Find a dank username.
+dependencies:
+    test: 'any'

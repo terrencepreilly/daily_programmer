@@ -1,0 +1,5 @@
+---
+name: dp282e
+description: converts numbers from a base into Base Fib.
+dependencies:
+    test: any

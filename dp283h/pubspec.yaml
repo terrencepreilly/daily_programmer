@@ -1,0 +1,5 @@
+---
+name: dp283
+description: Calculates box-counting dimension for a simple, 2D map
+dependencies:
+    test: any

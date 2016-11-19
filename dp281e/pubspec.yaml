@@ -1,0 +1,5 @@
+---
+name: dp281e
+description: finds the smallest base a number could represent and returns its base 10 representation
+dependencies:
+    test: any
