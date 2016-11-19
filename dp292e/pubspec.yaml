@@ -1,0 +1,5 @@
+---
+name: dp292e
+description: short-hand number notation expander
+dependencies:
+    test: any
