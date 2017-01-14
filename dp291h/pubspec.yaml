@@ -1,0 +1,7 @@
+---
+name: dp291.h
+description:
+    Finding non-overlapping paths on a grid to various points.
+    Also, a duplicate of dp280h.
+dependencies:
+    test: any
