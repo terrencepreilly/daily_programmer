@@ -1,0 +1,5 @@
+---
+name: dp298h
+description: Solving a maze.
+dependencies:
+    test: any
